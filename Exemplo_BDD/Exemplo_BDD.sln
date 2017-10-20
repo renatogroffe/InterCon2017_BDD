@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alturas", "Alturas\Alturas.csproj", "{AECE535D-2812-4307-834D-9498F6BDAF09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alturas.Especificacoes", "Alturas.Especificacoes\Alturas.Especificacoes.csproj", "{4B6086F7-656C-460D-A4EC-A95185E10D95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AECE535D-2812-4307-834D-9498F6BDAF09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AECE535D-2812-4307-834D-9498F6BDAF09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AECE535D-2812-4307-834D-9498F6BDAF09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AECE535D-2812-4307-834D-9498F6BDAF09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B6086F7-656C-460D-A4EC-A95185E10D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B6086F7-656C-460D-A4EC-A95185E10D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B6086F7-656C-460D-A4EC-A95185E10D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B6086F7-656C-460D-A4EC-A95185E10D95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCB7A40B-5571-4041-8759-351CE965AF3D}
+	EndGlobalSection
+EndGlobal
